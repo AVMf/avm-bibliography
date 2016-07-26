@@ -23,6 +23,16 @@ Alternatively, you can use the repository as a git submodule of another reposito
 git submodule add -b master  https://github.com/AVMf/avm-bibliography.git avm-bibliography
 ```
 
+Furthermore, a document that cites all of the entries in this bibliography can be created using `pdflatex` and `bibtex`; you may also compile to a PDF file using a wide variety of other tools, such as `latexmk`. You can type the following commands to create the summary document:
+
+```shell
+pdflatex avm_bibliography
+bibtex avm_bibliography
+pdflatex avm_bibliography
+pdflatex avm_bibliography
+```
+
+
 ## Problems or Praise?
 
 If you find that some of the entries are incorrectly formatted and thus your LaTeX and BibTeX tools are not processing
