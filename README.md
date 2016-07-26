@@ -26,10 +26,10 @@ git submodule add -b master  https://github.com/AVMf/avm-bibliography.git avm-bi
 Furthermore, a document that cites all of the entries in this bibliography can be created using `pdflatex` and `bibtex`; you may also compile to a PDF file using a wide variety of other tools, such as `latexmk`. You can type the following commands to create the summary document:
 
 ```shell
-pdflatex avm_bibliography
-bibtex avm_bibliography
-pdflatex avm_bibliography
-pdflatex avm_bibliography
+pdflatex avm-bibliography
+bibtex avm-bibliography
+pdflatex avm-bibliography
+pdflatex avm-bibliography
 ```
 
 
