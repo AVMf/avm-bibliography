@@ -5,7 +5,7 @@ It was created by Phil McMinn and Gregory M. Kapfhamer, the researchers who crea
 [AMVf](http://avmframework.org). You are free to use any of the entries in this file if you are interested in
 citing one of these research papers in your own LaTeX document.
 
-If you have used the AVM or the AVMf in your research, please email us (p.mcminn@sheffield.ac.uk), and will add your paper(s) to the repository.
+If you have used the AVM or the AVMf in your research, and you have papers that you would like included in the bibliography please email me (p.mcminn@sheffield.ac.uk) with the details, and we will add your paper(s) to the repository.
 
 ## Installation Instructions
 
