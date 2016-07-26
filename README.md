@@ -12,7 +12,7 @@ If you have used the AVM or the AVMf in your research, and you have papers that 
 You can type the following command if you want to clone this repository:
 
 ```shell
-git clone https://github.com/AVMf/avm-bibliography
+git clone https://github.com/AVMf/avm-bibliography.git
 ```
 
 Now, you can type `cd avm-bibliography` and use the BibTeX file in your own LaTeX project.  
