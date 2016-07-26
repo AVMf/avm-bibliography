@@ -17,6 +17,12 @@ git clone https://github.com/AVMf/avm-bibliography.git
 
 Now, you can type `cd avm-bibliography` and use the BibTeX file in your own LaTeX project.  
 
+Alternatively, you can use the repository as a git submodule of another repository. To do this, use the following command:
+
+```shell
+git submodule add -b master  https://github.com/AVMf/avm-bibliography.git avm-bibliography
+```
+
 ## Problems or Praise?
 
 If you find that some of the entries are incorrectly formatted and thus your LaTeX and BibTeX tools are not processing
