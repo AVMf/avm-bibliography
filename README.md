@@ -1,4 +1,4 @@
-# avm-bibliography
+# Welcome to the AVM Bibliography Repository
 
 This repository contains a BibTeX file for papers that have used or are related to the Alternating Variable Method (AVM).
 It was created by Phil McMinn and Gregory M. Kapfhamer, the researchers who created the open source AVM framework,
