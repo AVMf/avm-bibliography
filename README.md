@@ -2,7 +2,7 @@
 
 This repository contains a BibTeX file for papers that have used or are related
 to the Alternating Variable Method (AVM). It was created by Phil McMinn and
-Gregory M. Kapfhammer, the researchers who created the open source AVM
+Gregory M. Kapfhammer, the researchers who created the open-source AVM
 framework, [AMVf](http://avmframework.org). You are free to use any of the
 entries in this file if you are interested in citing one of these research
 papers in your own LaTeX document.
