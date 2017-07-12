@@ -8,10 +8,13 @@ entries in this file if you are interested in citing one of these research
 papers in your own LaTeX document.
 
 If you have used the AVM or the AVMf in your research, and you have papers that
-you would like included in the bibliography please email Phil McMinn
+you would like to be included in the bibliography please email Phil McMinn
 (p.mcminn@sheffield.ac.uk) with the details, and we will add your paper(s) to
-the repository. Also, if you find any papers you know of using the AVM, please
-let me know also!
+the repository. Alternatively, you can raise an issue in this repository with a
+request to add a paper. Or you can fork this repository, add your new paper(s),
+and then create a pull request. Finally, if you find any papers you know of
+using the AVM, then please follow one of the aforementioned strategies to let us
+know.
 
 ## Installation Instructions
 
